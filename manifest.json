@@ -1,5 +1,5 @@
 {
-    "$schema": "schema.json",
+    "$schema": "./schema.json",
     "name": "Venom stable coins list",
     "version": {
         "major": 1,
@@ -23,7 +23,7 @@
             "currency": "USD",
             "decimals": 6,
             "description": "USDT is a USD-pegged and fiat-backed stablecoin issued by Tether Holdings. Tether is currently the largest stablecoin issuer in the market and USDT is the stablecoin with the largest supply.",
-            "logoURI": "https://cdn.venom.foundation/assets/mainnet/icons/USDT/logo.svg",
+            "logoURI": "./icons/usdt.svg",
             "name": "Tether USD",
             "symbol": "USDT",
             "website": "https://tether.to/"
@@ -34,7 +34,7 @@
             "currency": "TRY",
             "decimals": 6,
             "description": "BiLira (TRYB) is a stablecoin created in Turkey. Its value is pegged to the Turkish Lira (TRY), with each BiLira equivalent to one Turkish Lira in the cryptocurrency realm.",
-            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5181.png",
+            "logoURI": "./icons/tryb.svg",
             "name": "BiLira",
             "symbol": "TRYB",
             "website": "https://www.bilira.co/en/home"
@@ -45,7 +45,7 @@
             "currency": "SGD",
             "decimals": 6,
             "description": "XSGD is a stablecoin pegged to the Singapore Dollar. The token is issued by Singapore-based payments leader Xfers via the StraitsX platform.",
-            "logoURI": "https://tokens.1inch.io/0x70e8de73ce538da2beed35d14187f6959a8eca96.png",
+            "logoURI": "./icons/xsgd.svg",
             "name": "XSGD",
             "symbol": "XSGD",
             "website": "https://www.straitsx.com/en"
@@ -56,7 +56,7 @@
             "currency": "JPY",
             "decimals": 6,
             "description": "GYEN is the world's first regulated stablecoin pegged to the Japanese Yen. Launched in 2020, it is issued by GMO-Z.com Trust Company, which operates under a limited purpose trust charter granted by the New York State Department of Financial Services.",
-            "logoURI": "https://tokens.1inch.io/0xc08512927d12348f6620a698105e1baac6ecd911.png",
+            "logoURI": "./icons/gyen.svg",
             "name": "GMO JPY",
             "symbol": "GYEN",
             "website": "https://stablecoin.z.com/"
@@ -67,7 +67,7 @@
             "currency": "IDR",
             "decimals": 2,
             "description": "Rupiah Token (IDRT) is a stablecoin that is pegged at 1:1 ratio to the Rupiah.",
-            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4702.png",
+            "logoURI": "./icons/idrt.svg",
             "name": "Rupiah Token",
             "symbol": "IDRT",
             "website": "https://rupiahtoken.com/"
@@ -77,7 +77,7 @@
             "chainId": 1,
             "currency": "EUR",
             "decimals": 2,
-            "logoURI": "https://tokens.1inch.io/0xdb25f211ab05b1c97d595516f45794528a807ad8.png",
+            "logoURI": "./icons/eurs.svg",
             "name": "STASIS EURS Token",
             "symbol": "EURS",
             "website": "https://stasis.net/"
@@ -88,7 +88,7 @@
             "currency": "BRL",
             "decimals": 18,
             "description": "BRZ is the first Brazilian stablecoin in circulation designed to maintain a 1:1 peg to Brazilian Real",
-            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4139.png",
+            "logoURI": "./icons/brz.svg",
             "name": "BRZ Token",
             "symbol": "BRZ",
             "website": "https://www.brztoken.io/"
