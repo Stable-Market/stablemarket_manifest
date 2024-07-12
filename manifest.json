@@ -1,5 +1,5 @@
 {
-    "$schema": "./schema.json",
+    "$schema": "https://raw.githubusercontent.com/Stable-Market/stablemarket_manifest/main/schema.json",
     "name": "Venom stable coins list",
     "version": {
         "major": 1,
@@ -10,20 +10,12 @@
     "timestamp": "2024-07-09T14:00:00.633Z",
     "tokens": [
         {
-            "address": "0:77d36848bb159fa485628bc38dc37eadb74befa514395e09910f601b841f749e",
-            "chainId": 1,
-            "decimals": 9,
-            "logoURI": "https://cdn.venom.foundation/assets/mainnet/icons/WVENOM/logo.svg",
-            "name": "Wrapped Venom",
-            "symbol": "VENOM"
-        },
-        {
             "address": "0:8a4ed4483500caf2d4bb4b56c84df41009cc3d0ed6a9de05d853e26a30faeced",
             "chainId": 1,
             "currency": "USD",
             "decimals": 6,
             "description": "USDT is a USD-pegged and fiat-backed stablecoin issued by Tether Holdings. Tether is currently the largest stablecoin issuer in the market and USDT is the stablecoin with the largest supply.",
-            "logoURI": "./icons/usdt.svg",
+            "logoURI": "https://raw.githubusercontent.com/Stable-Market/stablemarket_manifest/main/icons/usdt.svg",
             "name": "Tether USD",
             "symbol": "USDT",
             "website": "https://tether.to/"
@@ -34,7 +26,7 @@
             "currency": "TRY",
             "decimals": 6,
             "description": "BiLira (TRYB) is a stablecoin created in Turkey. Its value is pegged to the Turkish Lira (TRY), with each BiLira equivalent to one Turkish Lira in the cryptocurrency realm.",
-            "logoURI": "./icons/tryb.svg",
+            "logoURI": "https://raw.githubusercontent.com/Stable-Market/stablemarket_manifest/main/icons/tryb.svg",
             "name": "BiLira",
             "symbol": "TRYB",
             "website": "https://www.bilira.co/en/home"
@@ -45,7 +37,7 @@
             "currency": "SGD",
             "decimals": 6,
             "description": "XSGD is a stablecoin pegged to the Singapore Dollar. The token is issued by Singapore-based payments leader Xfers via the StraitsX platform.",
-            "logoURI": "./icons/xsgd.svg",
+            "logoURI": "https://raw.githubusercontent.com/Stable-Market/stablemarket_manifest/main/icons/xsgd.svg",
             "name": "XSGD",
             "symbol": "XSGD",
             "website": "https://www.straitsx.com/en"
@@ -56,7 +48,7 @@
             "currency": "JPY",
             "decimals": 6,
             "description": "GYEN is the world's first regulated stablecoin pegged to the Japanese Yen. Launched in 2020, it is issued by GMO-Z.com Trust Company, which operates under a limited purpose trust charter granted by the New York State Department of Financial Services.",
-            "logoURI": "./icons/gyen.svg",
+            "logoURI": "https://raw.githubusercontent.com/Stable-Market/stablemarket_manifest/main/icons/gyen.svg",
             "name": "GMO JPY",
             "symbol": "GYEN",
             "website": "https://stablecoin.z.com/"
@@ -67,7 +59,7 @@
             "currency": "IDR",
             "decimals": 2,
             "description": "Rupiah Token (IDRT) is a stablecoin that is pegged at 1:1 ratio to the Rupiah.",
-            "logoURI": "./icons/idrt.svg",
+            "logoURI": "https://raw.githubusercontent.com/Stable-Market/stablemarket_manifest/main/icons/idrt.svg",
             "name": "Rupiah Token",
             "symbol": "IDRT",
             "website": "https://rupiahtoken.com/"
@@ -77,7 +69,7 @@
             "chainId": 1,
             "currency": "EUR",
             "decimals": 2,
-            "logoURI": "./icons/eurs.svg",
+            "logoURI": "https://raw.githubusercontent.com/Stable-Market/stablemarket_manifest/main/icons/eurs.svg",
             "name": "STASIS EURS Token",
             "symbol": "EURS",
             "website": "https://stasis.net/"
@@ -88,7 +80,7 @@
             "currency": "BRL",
             "decimals": 18,
             "description": "BRZ is the first Brazilian stablecoin in circulation designed to maintain a 1:1 peg to Brazilian Real",
-            "logoURI": "./icons/brz.svg",
+            "logoURI": "https://raw.githubusercontent.com/Stable-Market/stablemarket_manifest/main/icons/brz.svg",
             "name": "BRZ Token",
             "symbol": "BRZ",
             "website": "https://www.brztoken.io/"
