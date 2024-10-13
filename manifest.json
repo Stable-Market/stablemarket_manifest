@@ -69,6 +69,7 @@
             "chainId": 1,
             "currency": "EUR",
             "decimals": 2,
+            "description": "EURS is a fully collateralized stablecoin, backed 1:1 by the Euro, with all EURS tokens supported by the company's collateral reserves. Headquartered in Malta since 2012.",
             "logoURI": "https://raw.githubusercontent.com/Stable-Market/stablemarket_manifest/main/icons/eurs.svg",
             "name": "STASIS EURS Token",
             "symbol": "EURS",
